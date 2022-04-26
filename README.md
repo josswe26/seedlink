@@ -3,7 +3,7 @@
 # [SeedLink](https://seed-link.herokuapp.com/)
 
 ## **Deployed site**
-The live website can be found at the following link; [SeedLink](https://seed-link.herokuapp.com/).
+The live website can be found at the following link: [SeedLink](https://seed-link.herokuapp.com/).
 
 ![SeedLink Mockup](static/images/seedlink-responsive.png)
 
